@@ -1,7 +1,7 @@
 # PyMock
 [![GPL Licence][licence-badge]](LICENSE)
 
-PyMock is a simple mock REST API written with Flask.Use if you need a mock API in seconds.
+PyMock is a simple mock REST API written with Flask. Use if you need a mock API in seconds.
 
 # Installation
 For Python 2.x:
@@ -49,7 +49,7 @@ Think about a simple blog REST API. It stores users and blog posts. You get an a
 
 # License
 ```
-PyMock is a simple mock REST API written with Flask.Use if you need
+PyMock is a simple mock REST API written with Flask. Use if you need
 a mock API in seconds.
 Copyright (C) 2016  Halil Kaya
 
