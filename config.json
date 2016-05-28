@@ -1,0 +1,5 @@
+{
+  "api_name": "PyMock",
+  "secret_key": "ka8Rogh6MupooT2tthieKip5Johnei6iSeel1woheic1meiJPu4boo9kWoovu5fe",
+  "db_connection_string": "mysql://username:password@host/database"
+}

@@ -1,0 +1,7 @@
+Flask
+mysqlclient
+flask-httpauth
+flask-SQLAlchemy
+flask-mysqldb
+passlib
+itsdangerous
